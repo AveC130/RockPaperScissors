@@ -24,7 +24,7 @@ Rock Paper Scissors game built in Python.
    ```
 3. Run the game:
    ```
-   python3 RockPaperScissor.py
+   python3 rockpaperscissors.py
    ```
 
 ## How It Works
